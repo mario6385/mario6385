@@ -36,7 +36,7 @@ dyeing his eyes\
 **2008. 10. 02**: his birth\
 **2011. ??. ??**: he started to go to kids garden.\
 **2012. ??. ??**: he learned korean language.\
-**2014. ??. ??**: his voice's age turned 14.
+**2014. ??. ??**: his voice's age turned 14.\
 **2015. 03. 02**: he started to go to school.\
 **2015. ??. ??**: he likes mario game.\
 **2017. ??. ??**: he started to go to academy.\
@@ -48,3 +48,4 @@ dyeing his eyes\
 **2021. 06. 02**: he started to play 3 music calculators.\
 **2021. 08. 18**: he started to play 4 music calculators.\
 **2021. 10. 23**: he started to use github.
+**2022. 01. 01**: probably, he stopped growing up.
