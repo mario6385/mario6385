@@ -47,5 +47,5 @@ dyeing his eyes\
 **2021. 02. 18**: he started youtube.\
 **2021. 06. 02**: he started to play 3 music calculators.\
 **2021. 08. 18**: he started to play 4 music calculators.\
-**2021. 10. 23**: he started to use github.
+**2021. 10. 23**: he started to use github.\
 **2022. 01. 01**: probably, he stopped growing up.
