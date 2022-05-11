@@ -17,6 +17,7 @@ checkers\
 - puzzles\
 hexominoes\
 pentacubes\
+Twisty puzzle(favorite)\
 - most music\
 - instruments\
 music calculators(favorite)\
@@ -28,7 +29,7 @@ mango\
 - other foods\
 pizza\
 kimchi ramen\
-spaghetti\
+spaghetti(favorite)\
 chocolate\
 **what he is arfaids of**\
 dyeing his eyes\
